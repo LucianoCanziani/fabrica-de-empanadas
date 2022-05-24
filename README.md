@@ -1,4 +1,4 @@
-![landingPage](src/assets/captura.png?raw=true "Landing Page")
+![captura](https://user-images.githubusercontent.com/96893895/169951698-27dc94a0-1e90-4ff5-b155-124c24a74ebb.PNG)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/c1463a43-b689-4c4e-a8e8-f159fed00d53/deploy-status)](https://app.netlify.com/sites/fabricadeempanadas/deploys)
 
