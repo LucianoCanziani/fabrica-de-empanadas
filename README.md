@@ -15,13 +15,13 @@ Some of the libraries and framework used in this project are Route, Hooks, React
 * react-toastify: (^8.2.0)
 * react-indiana-drag-scroll: (^2.1.0)
 
-## GitHub 
-
-Repository Link: https://github.com/LucianoCanziani/fabrica-de-empanadas
-
 ## Deploy Netlify
 
 Deploy Link: https://fabricadeempanadas.netlify.app/
+
+## GitHub 
+
+Repository Link: https://github.com/LucianoCanziani/fabrica-de-empanadas
 
 ## Installation Process From Scratch (see notes below):
    *Please keep in mind that, in case that you've already have installed and configured Node.js, GitHub CLI and NPM, you should then **skip steps 1-5** and start from step number 6.*
@@ -35,32 +35,32 @@ Deploy Link: https://fabricadeempanadas.netlify.app/
 
    **https://cli.github.com/**
    
-3. Install GitHub CLI. On the command line (cmd for example), run the following command:
+3. Install GitHub CLI. Run the following command:
 
    **winget install --id GitHub.cli**
    
-4. Login to your GitHub account on GitHub CLI. On the command line, run the following command:
+4. Login to your GitHub account on GitHub CLI. Run the following command:
 
    **gh auth login**
 
-5. Download the latest version of npm. On the command line, run the following command:
+5. Download the latest version of npm. Run the following command:
 
    **npm install -g npm**
    
-6. Clone the project on your PC. On the command line, run the following command: 
+6. Clone the project on your PC and run the following command: 
    
    **gh repo clone https://github.com/LucianoCanziani/fabrica-de-empanadas.git**
    
-7. Install the necessary repository dependencies. On the command line, run the following command:
+7. Install the necessary repository dependencies. Run the following command:
 
    **npm install**
 
-8. Start the repository. On the command line, run the following command: 
+8. Start the repository. Run the following command: 
    
    **npm start**
 
 ## How to Use:
 1. Browse through the store and filter by category. Select the desired empanadas and add it to the cart
 2. Go to the shopping cart and review selected items.
-4. Fill your address information in the form located check-out.
+4. Fill your address information in the form located at check-out.
 5. Complete the purchase by clicking the red button saying "Enviar pedido".
