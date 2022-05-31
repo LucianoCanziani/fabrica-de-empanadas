@@ -36,7 +36,7 @@ const ItemDetailContainer = () => {
     }, [id])
     
     return (
-        <div>
+        <div className="item-detail-container-padre">
             {
                 loading ? <LoaderIcon className="loader" /> : <ItemDetail productos={producto} idd={id} />
             }
